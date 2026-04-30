@@ -1,0 +1,30 @@
+{
+  "Code.exe": {
+    "display_name": "Visual Studio Code",
+    "category": "Coding"
+  },
+  "WindowsTerminal.exe": {
+    "display_name": "Terminal",
+    "category": "Terminal"
+  },
+  "cmd.exe": {
+    "display_name": "Command Prompt",
+    "category": "Terminal"
+  },
+  "powershell.exe": {
+    "display_name": "PowerShell",
+    "category": "Terminal"
+  },
+  "chrome.exe": {
+    "display_name": "Google Chrome",
+    "category": "Browser"
+  },
+  "msedge.exe": {
+    "display_name": "Microsoft Edge",
+    "category": "Browser"
+  },
+  "Postman.exe": {
+    "display_name": "Postman",
+    "category": "API Testing"
+  }
+}

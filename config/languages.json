@@ -1,0 +1,18 @@
+{
+  ".py": "Python",
+  ".js": "JavaScript",
+  ".jsx": "JavaScript React",
+  ".ts": "TypeScript",
+  ".tsx": "TypeScript React",
+  ".html": "HTML",
+  ".css": "CSS",
+  ".scss": "SCSS",
+  ".json": "JSON",
+  ".java": "Java",
+  ".php": "PHP",
+  ".go": "Go",
+  ".rs": "Rust",
+  ".cs": "C#",
+  ".cpp": "C++",
+  ".c": "C"
+}
